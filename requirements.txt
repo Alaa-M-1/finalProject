@@ -3,3 +3,4 @@ opencv-python
 face-recognition
 deepface
 werkzeug==2.2.3
+gunicorn
